@@ -1,0 +1,17 @@
+   //Input_new_transaction
+   
+   {
+            "sender": "63f4f36d987a4e39b35ecd6be16b19ac",
+            "recipient": "c43ca544ba004e449939d7513e1d8542",
+            "amount": 7
+        }
+		
+		
+		
+		
+		//Input_new_node
+		
+		
+		   {
+            "nodes":["http://127.0.0.1:5001"]
+        }
